@@ -1,1 +1,40 @@
-
+{
+"data": [
+   {
+        "coinName": "BTC",
+        "coinPrice": "27 June 2024",
+        "changePrice": "9.8",
+        "symbol": "181 minutes",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "bitcoin",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "minimumPayout": ""
+    },
+{
+        "coinName": "BTC",
+        "coinPrice": "27 June 2024",
+        "changePrice": "9.8",
+        "symbol": "181 minutes",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "bitcoin",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "minimumPayout": ""
+    },
+{
+        "coinName": "BTC",
+        "coinPrice": "27 June 2024",
+        "changePrice": "9.8",
+        "symbol": "181 minutes",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "bitcoin",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "minimumPayout": ""
+    }
+  ]
+}
