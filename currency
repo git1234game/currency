@@ -14,7 +14,9 @@
         "range": {
         "first": 80,
         "second": 80
-        }
+        },
+        "listData": ["1 BTC", "0.1 BTC", "0.01 BTC", "0.001 BTC", "0.0001 BTC", "0.00001 BTC",
+                    "0.00001 BTC", "0.000001 BTC"]
     },
       {
         "coinName": "BTC",
@@ -28,9 +30,11 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-    "first": 80,
-    "second": 80
-   }
+     "first": 80,
+     "second": 80
+     },
+     "listData": ["1 BTC", "0.1 BTC", "0.01 BTC", "0.001 BTC", "0.0001 BTC", "0.00001 BTC",
+                    "0.00001 BTC", "0.000001 BTC"]
     }, 
  {
         "coinName": "BTC",
@@ -44,9 +48,10 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-    "first": 80,
-    "second": 80
-   }
+       "first": 80,
+       "second": 80
+       }, "listData": ["1 BTC", "0.1 BTC", "0.01 BTC", "0.001 BTC", "0.0001 BTC", "0.00001 BTC",
+                    "0.00001 BTC", "0.000001 BTC"]
     }
   ]
 }
