@@ -12,8 +12,7 @@
         "balanceInUsdt": "",
         "mini": "",
       "range": {
-             "first": 0,
-             "second": 0
+             80,80
          }
     },
       {
@@ -28,8 +27,7 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-             "first": 0,
-             "second": 0
+             80,80
          }
     }
   ]
