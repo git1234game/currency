@@ -11,9 +11,10 @@
         "balance": "0",
         "balanceInUsdt": "",
         "mini": "",
-      "range": {
-             80,80
-         }
+        "range": {
+        "first": 80,
+        "second": 80
+        }
     },
       {
         "coinName": "BTC",
@@ -27,8 +28,25 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-             80,80
-         }
+    "first": 80,
+    "second": 80
+   }
+    }, 
+ {
+        "coinName": "BTC",
+        "coinPrice": "27 June 2024",
+        "changePrice": "9.8",
+        "symbol": "BTCUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "bitcoin",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+       "range": {
+    "first": 80,
+    "second": 80
+   }
     }
   ]
 }
