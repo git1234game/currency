@@ -11,10 +11,10 @@
         "balance": "0",
         "balanceInUsdt": "",
         "mini": "",
-      "range": {
-    "first": 80,
-    "second": 80
-  }
+        "range": {
+        "first": 80,
+        "second": 80
+        }
     },
       {
         "coinName": "BTC",
