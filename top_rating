@@ -12,8 +12,9 @@
         "balanceInUsdt": "",
         "mini": "",
       "range": {
-             80,80
-         }
+    "first": 80,
+    "second": 80
+  }
     },
       {
         "coinName": "BTC",
@@ -27,8 +28,9 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-             80,80
-         }
+    "first": 80,
+    "second": 80
+  }
     }
   ]
 }
