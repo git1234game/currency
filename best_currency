@@ -1,22 +1,22 @@
 {
 "data": [
    {
-        "coinName": "BTC",
+        "coinName": "FTM",
         "coinPrice": "27 June 2024",
         "changePrice": "9.8",
-        "symbol": "BTCUSDT",
+        "symbol": "FTMUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "bitcoin",
+        "coinFullName": "fantom",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
         "mini": "",
         "range": {
-        "first": 80,
+        "first": 78,
         "second": 80
         },
-        "listData": ["1 BTC", "0.1 BTC", "0.01 BTC", "0.001 BTC", "0.0001 BTC", "0.00001 BTC",
-                    "0.00001 BTC", "0.000001 BTC"]
+        "listData": ["100", "10", "1", "0.1", "0.01", "0.001",
+                    "0.0001", "0.00001"]
     },
       {
         "coinName": "BTC",
