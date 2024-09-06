@@ -17,25 +17,7 @@
        }, "listData": ["1", "0.1", "0.01", "0.001", "0.0001", "0.00001",
                     "0.000001", "0.0000001"]
     },
-   {
-        "coinName": "FTM",
-        "coinPrice": "27 June 2024",
-        "changePrice": "9.8",
-        "symbol": "FTMUSDT",
-        "streamSymbol": "epic science fiction",
-        "coinFullName": "fantom",
-        "coinIcon": "", 
-        "balance": "0",
-        "balanceInUsdt": "",
-        "mini": "",
-        "range": {
-        "first": 78,
-        "second": 80
-        },
-        "listData": ["100", "10", "1", "0.1", "0.01", "0.001",
-                    "0.0001", "0.00001"]
-    },
-      {
+    {
         "coinName": "DOT",
         "coinPrice": "27 June 2024",
         "changePrice": "9.8",
@@ -52,6 +34,24 @@
      },
      "listData": ["10", "1", "0.1", "0.01", "0.001", "0.0001",
                     "0.00001", "0.000001"]
+    },
+    {
+        "coinName": "FTM",
+        "coinPrice": "27 June 2024",
+        "changePrice": "9.8",
+        "symbol": "FTMUSDT",
+        "streamSymbol": "epic science fiction",
+        "coinFullName": "fantom",
+        "coinIcon": "", 
+        "balance": "0",
+        "balanceInUsdt": "",
+        "mini": "",
+        "range": {
+        "first": 78,
+        "second": 80
+        },
+        "listData": ["100", "10", "1", "0.1", "0.01", "0.001",
+                    "0.0001", "0.00001"]
     }
   ]
 }
