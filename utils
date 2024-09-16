@@ -1,9 +1,14 @@
 {
-        "isShowUnityAds": false,
-        "isShowMainButtonAds": false,
-        "isShowAdsAtlasScreen": false,
+        "admobAdLimit": 1,
+        "unityAdLimit": 1,
         "movieScreenTitle1": "",
         "movieScreenTitle2": "",
         "movieScreenTitle3": "",
-        "isShowDialog": ""
+        "isShowTermsDialog": false,
+        "dialogTermsTitle": "",
+        "dialogTermsDescription": "",
+        "isShowExtraDialog": "",
+        "extraDialogTImeDelay": "",
+        "extaDialogTitle": "",
+        "extraDialogDescription": ""
 }
