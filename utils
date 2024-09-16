@@ -7,7 +7,7 @@
         "isShowTermsDialog": false,
         "dialogTermsTitle": "",
         "dialogTermsDescription": "",
-        "isShowExtraDialog": "",
+        "isShowExtraDialog": false,
         "extraDialogTImeDelay": "",
         "extaDialogTitle": "",
         "extraDialogDescription": ""
