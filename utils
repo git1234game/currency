@@ -8,7 +8,7 @@
         "dialogTermsTitle": "",
         "dialogTermsDescription": "",
         "isShowExtraDialog": false,
-        "extraDialogTImeDelay": 10000,
+        "extraDialogTImeDelay": "1000",
         "extaDialogTitle": "",
         "extraDialogDescription": ""
 }
