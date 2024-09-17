@@ -12,5 +12,6 @@
         "isShowExtraDialog": false,
         "extraDialogTImeDelay": "1000",
         "extraDialogTitle": "",
-        "extraDialogDescription": ""
+        "extraDialogDescription": "",
+"isWithdrawBoxShown": ""
 }
