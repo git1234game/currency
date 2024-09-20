@@ -1,6 +1,6 @@
 {
         "admobAdLimit": 0,
-        "unityAdLimit": 4,
+        "unityAdLimit": 20,
         "isResetBalance": false,
         "resetBalance": "0.2",
         "movieScreenTitle1": "",
