@@ -1,5 +1,5 @@
 {
-        "admobAdLimit": 4,
+        "admobAdLimit": 1,
         "unityAdLimit": 4,
         "isResetBalance": false,
         "resetBalance": "0.2",
