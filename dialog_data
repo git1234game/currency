@@ -1,0 +1,17 @@
+{
+"data": [
+   {
+        "coinName": "BTC",
+        "coinPrice": "70000",
+        "changePrice": "9.8",
+        "symbol": "BTCUSDT",
+        "streamSymbol": "epic science fiction"
+    },
+      {
+        "coinName": "ETH",
+        "coinPrice": "4000",
+        "changePrice": "9.8",
+        "symbol": "ETHUSDT",
+        "streamSymbol": "epic science fiction"
+    }
+  ]
