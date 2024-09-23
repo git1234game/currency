@@ -6,7 +6,7 @@
         "movieScreenTitle1": "",
         "movieScreenTitle2": "",
         "movieScreenTitle3": "",
-        "isShowTermsDialog": false,
+        "isShowTermsDialog": true,
         "dialogTermsTitle": "",
         "dialogTermsDescription": "",
         "isShowExtraDialog": false,
