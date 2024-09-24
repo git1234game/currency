@@ -13,6 +13,7 @@
         "description": "description",
         "positive": "positive",
         "negative": "negative",
+        "isShow": false,
         "time": "0"
     }
   ]
