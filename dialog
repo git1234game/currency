@@ -4,12 +4,14 @@
         "title": "title",
         "description": "description",
         "positive": "positive",
-        "negative": "negative"
+        "negative": "negative",
+        "isShow": true
     },
       {
         "title": "title",
         "description": "description",
         "positive": "positive",
-        "negative": "negative"
+        "negative": "negative",
+        "isShow": false
     }
   ]
