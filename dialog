@@ -16,7 +16,7 @@
         "description": "description",
         "positive": "positive",
         "negative": "REMOVE_BUTTON",
-        "isShow": false,
+        "isShow": true,
         "time": "0",
         "matchData": "ff",
         "linksData": [{"first": "Privacy Policy","second": "url"}, {"first": "Privacy Policy","second": "url"}]
