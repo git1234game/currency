@@ -11,12 +11,22 @@
         "linksData": [{"first": "Privacy Policy","second": "https://en.wikipedia.org/wiki/Wiki"}, 
          {"first": "Terms Of Service","second": "https://en.wikipedia.org/wiki/Wiki"}]
     },
-      {
+{
         "title": "title new",
         "description": "description",
         "positive": "positive",
         "negative": "REMOVE_BUTTON",
         "isShow": true,
+        "time": "0",
+        "matchData": "ff",
+        "linksData": [{"first": "","second": "url"}, {"first": "","second": "url"}]
+    },
+      {
+        "title": "title new",
+        "description": "description",
+        "positive": "positive",
+        "negative": "REMOVE_BUTTON",
+        "isShow": false,
         "time": "0",
         "matchData": "ff",
         "linksData": [{"first": "","second": "url"}, {"first": "","second": "url"}]
