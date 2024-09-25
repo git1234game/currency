@@ -2,7 +2,7 @@
 "data": [
    {
         "title": "Terms And Agreement",
-        "description": "Read Our Privacy Policy, Terms Of Service and Tap "Agree and Countinue"",
+        "description": "Read Our Privacy Policy, Terms Of Service and Tap (Agree and Countinue)",
         "positive": "Accept & Continue",
         "negative": "REMOVE_BUTTON",
         "isShow": true,
