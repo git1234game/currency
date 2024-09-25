@@ -8,7 +8,7 @@
         "isShow": true,
         "time": "0",
         "matchData": "gh",
-        "linksData": [{"first": "Privacy Policy","second": "https://en.wikipedia.org/wiki/Wiki"}]
+        "linksData": [{"first": "Privacy Policy,","second": "https://en.wikipedia.org/wiki/Wiki"}]
     },
       {
         "title": "title new",
