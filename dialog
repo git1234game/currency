@@ -13,10 +13,10 @@
         "title": "title new",
         "description": "description",
         "positive": "positive",
-        "negative": "negative",
+        "negative": "REMOVE_BUTTON",
         "isShow": true,
         "time": "0",
-        "matchData": "abcd"
+        "matchData": "tt"
     }
   ]
 }
