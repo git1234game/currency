@@ -14,7 +14,7 @@
         "description": "description",
         "positive": "positive",
         "negative": "REMOVE_BUTTON",
-        "isShow": true,
+        "isShow": false,
         "time": "0",
         "matchData": "tt"
     }
