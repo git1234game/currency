@@ -10,6 +10,7 @@
         "isShowExtraDialog": false,
         "reduceTime": "86400000",
         "idThis": "5704391",
+        "percentageReduce": "12",
         "isTest": true,
         "isWithdrawBoxShown": true
 }
