@@ -13,11 +13,21 @@
          {"first": "Terms Of Service","second": "https://spinnercrypto.blogspot.com/2024/09/terms-and-condition-for-spin-crypto.html"}]
     },
 {
+        "title": "Update",
+        "description": "latest Version Avvailable click here to UPDATE",
+        "positive": "REMOVE_BUTTON",
+        "negative": "REMOVE_BUTTON",
+        "isShow": true,
+        "time": "0",
+        "matchData": "l.2",
+        "linksData": [{"first": "here to UPDATE","second": "https://play.google.com/store/apps/details?id=com.dog.truefrienddog"}]
+    },
+{
         "title": "title new",
         "description": "description fdjfhjdjfhdj",
         "positive": "positive",
         "negative": "REMOVE_BUTTON",
-        "isShow": true,
+        "isShow": false,
         "time": "0",
         "matchData": "ll",
         "linksData": [{"first": "","second": "url"}]
