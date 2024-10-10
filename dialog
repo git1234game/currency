@@ -17,7 +17,7 @@
         "description": "latest Version Avvailable click here to UPDATE",
         "positive": "REMOVE_BUTTON",
         "negative": "REMOVE_BUTTON",
-        "isShow": true,
+        "isShow": false,
         "time": "0",
         "matchData": "l.2",
         "linksData": [{"first": "here to UPDATE","second": "https://play.google.com/store/apps/details?id=com.dog.truefrienddog"}]
