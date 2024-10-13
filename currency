@@ -2,7 +2,7 @@
 "data": [
    {
         "coinName": "BTC",
-        "coinPrice": "70000",
+        "coinPrice": "60000",
         "changePrice": "9.8",
         "symbol": "BTCUSDT",
         "streamSymbol": "epic science fiction",
@@ -16,11 +16,11 @@
         "second": 44
         },
         "listData": ["1", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.00000001"]
+                    "0.000001", "0.000000001"]
     },
       {
         "coinName": "ETH",
-        "coinPrice": "4000",
+        "coinPrice": "2500",
         "changePrice": "9.8",
         "symbol": "ETHUSDT",
         "streamSymbol": "epic science fiction",
@@ -31,10 +31,10 @@
         "mini": "",
        "range": {
      "first": 1,
-     "second": 4
+     "second": 44
      },
      "listData": ["1", "0.1", "0.01", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.0000001"]
+                    "0.0000001", "0.000000001"]
     }
   ]
 }
