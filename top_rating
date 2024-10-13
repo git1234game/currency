@@ -2,7 +2,7 @@
 "data": [
       {
         "coinName": "SHIB",
-        "coinPrice": "27 June 2024",
+        "coinPrice": ".0000001",
         "changePrice": "9.8",
         "symbol": "SHIBUSDT",
         "streamSymbol": "epic science fiction",
@@ -13,13 +13,13 @@
         "mini": "",
        "range": {
        "first": 1,
-       "second": 89
+       "second": 44
        }, "listData": ["100000000", "10000000", "1000000", "100000", "10000", "1000",
                     "10", "1"]
     },
     {
         "coinName": "DOGE",
-        "coinPrice": "27 June 2024",
+        "coinPrice": ".001",
         "changePrice": "9.8",
         "symbol": "DOGEUSDT",
         "streamSymbol": "epic science fiction",
@@ -30,13 +30,13 @@
         "mini": "",
        "range": {
        "first": 1,
-       "second": 89
+       "second": 44
        }, "listData": ["10000", "1000", "100", "10", "1", "0.1",
-                    "0.01", "0.001"]
+                    "0.01", "0.00001"]
     },
 {
         "coinName": "FLOKI",
-        "coinPrice": "27 June 2024",
+        "coinPrice": ".00000001",
         "changePrice": "0",
         "symbol": "FLOKIUSDT",
         "streamSymbol": "epic science fiction",
@@ -47,13 +47,13 @@
         "mini": "",
        "range": {
        "first": 1,
-       "second": 89
+       "second": 44
        }, "listData": ["10000000", "1000000", "100000", "10000", "1000", "100",
                     "10", "1"]
     },
     {
         "coinName": "PEPE",
-        "coinPrice": "27 June 2024",
+        "coinPrice": ".00000001",
         "changePrice": "9.8",
         "symbol": "PEPEUSDT",
         "streamSymbol": "epic science fiction",
@@ -71,7 +71,7 @@
     },
    {
         "coinName": "FTM",
-        "coinPrice": "27 June 2024",
+        "coinPrice": ".4",
         "changePrice": "9.8",
         "symbol": "FTMUSDT",
         "streamSymbol": "epic science fiction",
@@ -82,9 +82,9 @@
         "mini": "",
         "range": {
         "first": 1,
-        "second": 45
+        "second": 44
         },
-        "listData": ["100", "10", "1", "0.1", "0.01", "0.001",
+        "listData": ["100", "10", "1", "0.1", "0.01", "0.00001",
                     "0.0001", "0.00001"]
     }
   ]
