@@ -2,7 +2,7 @@
 "data": [
 {
         "coinName": "BNB",
-        "coinPrice": "27 June 2024",
+        "coinPrice": ".4",
         "changePrice": "9.8",
         "symbol": "BNBUSDT",
         "streamSymbol": "epic science fiction",
@@ -12,15 +12,15 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-     "first": 80,
-     "second": 80
+     "first": 1,
+     "second": 44
      },
      "listData": ["10", "1", "0.1", "0.01", "0.001", "0.0001",
-                    "0.00001", "0.000001"]
+                    "0.00001", "0.00000001"]
     },
  {
         "coinName": "SOL",
-        "coinPrice": "27 June 2024",
+        "coinPrice": "110",
         "changePrice": "9.8",
         "symbol": "SOLUSDT",
         "streamSymbol": "epic science fiction",
@@ -30,10 +30,10 @@
         "balanceInUsdt": "",
         "mini": "",
        "range": {
-       "first": 80,
-       "second": 80
+       "first": 1,
+       "second": 44
        }, "listData": ["1", "0.1", "0.01", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.0000001"]
+                    "0.000001", "0.000000001"]
     }
   ]
 }
