@@ -1,10 +1,10 @@
 {
 "data": [
    {
-        "coinName": "BTC",
-        "coinPrice": "60000",
-        "changePrice": "9.8",
-        "symbol": "BTCUSDT",
+        "coinName": "USD",
+        "coinPrice": "1",
+        "changePrice": "1",
+        "symbol": "USD",
         "streamSymbol": "epic science fiction",
         "coinFullName": "bitcoin",
         "coinIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png", 
