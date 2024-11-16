@@ -19,7 +19,7 @@
                     "0.000001", "0.000000001"]
     },
       {
-           "coinName": "EUR/USD",
+           "coinName": "EUR",
         "coinPrice": "1.05",
         "changePrice": "0",
         "symbol": "EURUSD",
