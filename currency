@@ -3,7 +3,7 @@
    {
         "coinName": "USD",
         "coinPrice": "1",
-        "changePrice": "1",
+        "changePrice": "0",
         "symbol": "USD",
         "streamSymbol": "epic science fiction",
         "coinFullName": "Dollar",
