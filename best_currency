@@ -20,7 +20,7 @@
     },
  {
         "coinName": "CAD",
-        "coinPrice": 0.71",
+        "coinPrice": "0.71",
         "changePrice": "0",
         "symbol": "Canadian Dollar/ USD",
         "streamSymbol": "epic science fiction",
