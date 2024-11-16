@@ -6,7 +6,7 @@
         "changePrice": "1",
         "symbol": "USD",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "bitcoin",
+        "coinFullName": "Dollar",
         "coinIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -15,16 +15,16 @@
         "first": 1,
         "second": 44
         },
-        "listData": ["1", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+        "listData": ["200", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
                     "0.000001", "0.000000001"]
     },
       {
-        "coinName": "ETH",
-        "coinPrice": "2500",
-        "changePrice": "9.8",
-        "symbol": "ETHUSDT",
+           "coinName": "EURO/USD",
+        "coinPrice": "1.05",
+        "changePrice": "0",
+        "symbol": "EUROUSD",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "ethereum",
+        "coinFullName": "Euro",
         "coinIcon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -33,7 +33,7 @@
      "first": 1,
      "second": 44
      },
-     "listData": ["1", "0.1", "0.01", "0.001", "0.0001", "0.00001",
+     "listData": ["180", "0.1", "0.01", "0.001", "0.0001", "0.00001",
                     "0.0000001", "0.000000001"]
     }
   ]
