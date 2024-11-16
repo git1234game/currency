@@ -19,7 +19,7 @@
                     "0.00001", "0.00000001"]
     },
  {
-        "coinName": "Canadian USD",
+        "coinName": "CAD",
         "coinPrice": 0.71",
         "changePrice": "0",
         "symbol": "Canadian Dollar/ USD",
