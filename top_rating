@@ -1,12 +1,12 @@
 {
 "data": [
       {
-        "coinName": "INR",
+        "coinName": "TRUMP",
         "coinPrice": "0.012",
         "changePrice": "0",
-        "symbol": "INR/USD",
+        "symbol": "TRUMPUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "iNDIAN RUPESS",
+        "coinFullName": "TRUMP",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -14,16 +14,16 @@
        "range": {
        "first": 1,
        "second": 44
-       }, "listData": ["20000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.000000001"]
+       }, "listData": ["10000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.00000000001"]
     },
     {
-        "coinName": "KWD",
+        "coinName": "DOGE",
         "coinPrice": "3.25",
         "changePrice": "9.8",
-        "symbol": "KWDUSD",
+        "symbol": "DOGEUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "Kuwaiti dinar",
+        "coinFullName": "DOGE",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -31,14 +31,14 @@
        "range": {
        "first": 1,
        "second": 44
-       }, "listData": ["100", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.000000001"]
+       }, "listData": ["1000000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.00000000001"]
     },
 {
-        "coinName": "AUD",
+        "coinName": "XRP",
         "coinPrice": "0.65",
         "changePrice": "0",
-        "symbol": "AUDUSD",
+        "symbol": "RIPPLE",
         "streamSymbol": "epic science fiction",
         "coinFullName": "Australian Dollar",
         "coinIcon": "", 
@@ -49,13 +49,13 @@
        "first": 1,
        "second": 44
        }, "listData": ["20000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.000000001"]
+                    "0.000001", "0.00000000001"]
     },
     {
-        "coinName": "GPB",
+        "coinName": "ADA",
         "coinPrice": "1.26",
         "changePrice": "0",
-        "symbol": "GPBUSD",
+        "symbol": "CARDANO",
         "streamSymbol": "epic science fiction",
         "coinFullName": "British Pound",
         "coinIcon": "", 
@@ -66,16 +66,16 @@
      "first": 1,
      "second": 44
      },
-     "listData": ["100", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.000000001"]
+     "listData": ["10000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
+                    "0.000001", "0.0000000001"]
     },
    {
-        "coinName": "RUB",
+        "coinName": "SHIB",
         "coinPrice": "0.01",
         "changePrice": "0",
         "symbol": "FTMUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "Russia Rouble",
+        "coinFullName": "SHIBA INU",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -84,8 +84,8 @@
         "first": 1,
         "second": 44
         },
-        "listData": ["40000", "0.1", "0.01 ", "0.001", "0.0001", "0.00001",
-                    "0.000001", "0.000000001"]
+        "listData": ["400000000000", "1000000", "100000 ", "10000", "200", "0.1",
+                    "0.00001", "0.0000001"]
     }
   ]
 }
