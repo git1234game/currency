@@ -1,12 +1,12 @@
 {
 "data": [
    {
-        "coinName": "USD",
+        "coinName": "BTC",
         "coinPrice": "1",
-        "changePrice": "0",
-        "symbol": "USD",
+        "changePrice": "100000",
+        "symbol": "BTCUSDT",
         "streamSymbol": "epic science fiction",
-        "coinFullName": "Dollar",
+        "coinFullName": "Bitcoin",
         "coinIcon": "", 
         "balance": "0",
         "balanceInUsdt": "",
@@ -19,10 +19,10 @@
                     "0.000001", "0.000000001"]
     },
       {
-           "coinName": "EUR",
-        "coinPrice": "1.05",
+           "coinName": "BNB",
+        "coinPrice": "700",
         "changePrice": "0",
-        "symbol": "EURUSD",
+        "symbol": "BNBUSDT",
         "streamSymbol": "epic science fiction",
         "coinFullName": "Euro",
         "coinIcon": "", 
