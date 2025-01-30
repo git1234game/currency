@@ -8,7 +8,7 @@
         "movieScreenTitle3": "",
         "isShowTermsDialog": true,
         "isShowExtraDialog": false,
-        "reduceTime": "86400000",
+        "reduceTime": "166400000",
         "idThis": "5704391",
         "percentageReduce": "12",
         "isTest": false,
